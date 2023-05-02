@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    background: rgb(238, 212, 128);
+    background: rgb(112, 235, 127);
     max-width: 60%;
     margin: auto;
     border: 3px solid black;
@@ -25,7 +25,7 @@ h1 {
 }
 
 button{
-    color: #016f32;
+    color: #ddebe3;
     width: 150px;
     background: hsl(43, 74%, 49%);
     padding-top: 5px;
